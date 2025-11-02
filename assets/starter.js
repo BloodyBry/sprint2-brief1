@@ -268,6 +268,7 @@ document.addEventListener('DOMContentLoaded', () => {
      */
     const saveFavorites = () => {
         // TODO: Implement favorites saving
+        localStorage.setItem("favorites", JSON.stringify(favoriteJobIds));
     };
 
     /**
@@ -276,6 +277,11 @@ document.addEventListener('DOMContentLoaded', () => {
      */
     const loadFavorites = () => {
         // TODO: Implement favorites loading
+        // const save = localStorage.getItem("favorites");
+        // if (save) {
+        // favoriteJobIds = JSON.parse(save);
+        // } else {
+        // favoriteJobIds = [];
     };
 
     /**
@@ -295,6 +301,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // 1. Filter jobs by favorite IDs
         // 2. Use createJobCardHTML for each job
         // 3. Show empty message if no favorites
+
     };
 
     /**
