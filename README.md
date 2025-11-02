@@ -17,11 +17,5 @@ Une application web en **JavaScript Vanilla** permettant la gestion, la recherch
 - **LocalStorage API**  
 - **JSON pour la gestion des données**  
 
-## 📱 Expérience utilisateur
 
-Interface responsive, feedback visuel en temps réel et navigation fluide entre les sections (toutes les offres, favoris, mes offres).
-
-## 🛠️ Auteur
-
-Projet développé par **Adnane Bry** dans le cadre d’un apprentissage en développement web.
 
