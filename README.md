@@ -8,7 +8,7 @@ Une application web en **JavaScript Vanilla** permettant la gestion, la recherch
 - **Recherche et filtrage avancé** : recherche par mots-clés et filtres multiples (compétences, contrat, localisation).  
 - **CRUD complet** : ajout, édition, suppression et affichage dynamique des offres sous forme de cartes responsives.  
 - **Système de favoris** : ajout/retrait d’offres favorites et affichage dans un onglet dédié, avec sauvegarde via *localStorage*.  
-- **Gestion de profil** : ajout/suppression de compétences, définition des préférences et sauvegarde automatique.  
+- **Gestion de profil** : ajout et suppression de compétences, définition des préférences et sauvegarde automatique.  
 
 ## 🧠 Technologies utilisées
 
